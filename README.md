@@ -2,6 +2,8 @@
 
 I enjoy sharing my experience as a developer.
 
+Currently I work as a Microsoft Powerapps developer in Harman as a Senior Engineer.
+
 ## Featured Projects
 
 
