@@ -8,7 +8,7 @@ Currently I work as a Microsoft Powerapps developer in Harman as a Senior Engine
 
 
 |[![Kantan Admin: A React based Dashboard](./images/Kantan%20Admin.png)](https://kantan-admin.vercel.app/) | [![Custom Css To Use](./images/Design%20System.png)](https://github.com/abhishekraj11303372/cssdesignsystem) |
-|--|--|
+|--|--| |
 
 [![Space Travel UI](./images/Space.png)](https://cssdesignsystem.vercel.app/) 
-| [![Mobile App](./images/react-native%20mobile%20app.png)](https://github.com/abhishekraj11303372/reactnativeui) |--|--|
+| [![Mobile App](./images/react-native%20mobile%20app.png)](https://github.com/abhishekraj11303372/reactnativeui)
